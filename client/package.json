@@ -23,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "postbuild": "cp static.json build/"
+
   },
   "eslintConfig": {
     "extends": [
